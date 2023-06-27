@@ -4,9 +4,12 @@
 数据采集真实环境以及俯瞰图如下图所示。
 ![数据采集真实环境](https://github.com/zzuZYH/Wigait_50/assets/137862443/932209b1-6cf8-48cc-a1b1-4ba7f070f413)
 ![数据采集俯瞰图](https://github.com/zzuZYH/Wigait_50/assets/137862443/772c105c-70d3-495c-82d7-30f3f59d7156)
+
 WiGait-50采集了50名受测者的步态信息作为训练集与测试集。受测者的年龄介于18-30岁之间。每次数据采集时，一名受测者垂直穿越发射端与接收端之间的视距路径进行往返行走，如下图所示。一次数据采集时间为5s，重复行走60次。
 ![数据采集过程图压缩](https://github.com/zzuZYH/Wigait_50/assets/137862443/b52ab95c-959d-4c92-8a6d-625a2554715c)
+
 数据处理流程图如下图所示。
 ![流程图3](https://github.com/zzuZYH/Wigait_50/assets/137862443/159e5a0c-8580-4fbf-b2f2-be6b0b6e8ac1)
-WiGait-50数据集免费公开，仅用于非盈利性学术研究。（下载链接：）。
+
+WiGait-50数据集免费公开，仅用于非盈利性学术研究。（下载链接：链接：https://pan.baidu.com/s/1KcXIRwOt-HiZLS0035jK_A      提取码：zzu6）。
 下载完成为Wigait_50.zip压缩包，其中振幅数据为“input_受测者姓名_编号.csv”格式文件，“annotation_受测者姓名_编号.csv”格式文件为对应标注文件。
